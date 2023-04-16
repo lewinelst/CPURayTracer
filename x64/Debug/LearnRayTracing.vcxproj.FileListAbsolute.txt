@@ -1,0 +1,2 @@
+C:\Users\lewin\Documents\OpenGL Learn\LearnRayTracing\x64\Debug\LearnRayTracing.exe
+C:\Users\lewin\Documents\OpenGL Learn\LearnRayTracing - Multithreading\x64\Debug\LearnRayTracing.exe
